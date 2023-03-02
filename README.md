@@ -49,7 +49,7 @@
 <br>
 
 <a href="https://github.com/obiHenry/Sorts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiHenry&repo=dSorts&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiHenry&repo=Sorts&theme=merko" />
 </a>
 
 <a href="https://github.com/obiHenry/complete-javascript-course">
